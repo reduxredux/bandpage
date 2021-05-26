@@ -2,9 +2,13 @@
   float: left;
   width: 25%;
   background-color: pink;
+  margin: 2em;
+  border: blanchedalmond;
+  padding: 1em;
 }
 
 .right {
+  padding:2em;
   float: right;
   width: 200px;
 }
