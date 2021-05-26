@@ -1,0 +1,10 @@
+.sidebar {
+  float: left;
+  width: 25%;
+  background-color: pink;
+}
+
+.right {
+  float: right;
+  width: 200px;
+}
